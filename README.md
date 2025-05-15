@@ -36,14 +36,6 @@ Also included:
 
 No prior knowledge of Bitcoin or economics is required.
 
-## Folder Structure
-
-curriculum/ - PDF lessons
-articles/ - Blog-style educational articles (Markdown)
-worksheets/ - Printable student worksheets
-resources/ - Resource guides for each module
-images/ - Cover, certificate, and branding assets
-
 
 ## How to Use
 
