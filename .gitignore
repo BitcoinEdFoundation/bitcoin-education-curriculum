@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Office/editor autosaves and backups
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Old or backup PDFs
+*.old.pdf
