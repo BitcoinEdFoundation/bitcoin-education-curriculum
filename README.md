@@ -61,7 +61,7 @@ Visit us at:
 [https://www.bitcoinedfoundation.org](https://www.bitcoinedfoundation.org)
 
 For questions, contact:  
-thebitcoineducationfoundation.org
+thebitcoineducationfoundation@gmail.com
 
 ---
 
